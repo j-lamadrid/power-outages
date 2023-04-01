@@ -1,5 +1,5 @@
 Team:
-Jacob Lamadrid
+Jacob Lamadrid  
 Kelly Luu
 
 # Power-Outage

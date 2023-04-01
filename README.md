@@ -1,4 +1,4 @@
-Team:
+Team:  
 Jacob Lamadrid  
 Kelly Luu
 
